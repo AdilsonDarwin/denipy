@@ -291,3 +291,9 @@ a {
     border-radius: 5px;
     background-color: var(--orange);
 }
+
+@media only screen and (max-width:1024px){
+    body{
+        display: none;
+    }
+}
